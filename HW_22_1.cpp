@@ -1,3 +1,4 @@
+/*Evgenij Melnik*/
 #include <iostream>
 #include <io.h>
 #include "Employee.h"
